@@ -5,7 +5,7 @@ This project contains an R script for analyzing gene expression data (Control vs
 ## How to Run:
 1. Open RStudio.
 2. Run the script using the command:
-   `r
+   `
    source("gene_analysis.R")
 
 
