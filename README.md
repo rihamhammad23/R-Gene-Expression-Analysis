@@ -1,4 +1,4 @@
-# Gene Expression Analysis Task
+# R-gene-expression
 
 This project contains an R script for analyzing gene expression data (Control vs Treated) using vectors, matrices, and factors.
 
